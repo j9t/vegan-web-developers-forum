@@ -4,7 +4,6 @@ about: Add yourself as a vegan web developer
 title: ''
 labels: ''
 assignees: j9t
-
 ---
 
 * Your full name:
