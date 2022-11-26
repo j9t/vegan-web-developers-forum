@@ -1,4 +1,4 @@
-# Vegan Web Developers
+# Vegan Web Developers Forum
 
 ⚠️ The vegan web developers list is available under [j9t.gitlab.io/vegan-web-developers](https://j9t.gitlab.io/vegan-web-developers/).
 
