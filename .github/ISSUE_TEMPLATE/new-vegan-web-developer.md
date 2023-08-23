@@ -1,11 +1,10 @@
 ---
 name: New vegan web developer
 about: Add yourself as a vegan web developer
-title: ''
-labels: ''
+title: ""
+labels: ""
 assignees: j9t
 ---
-
 * Your full name:
 * Your website: https://…
 * Your Mastodon or Twitter account: https://…
